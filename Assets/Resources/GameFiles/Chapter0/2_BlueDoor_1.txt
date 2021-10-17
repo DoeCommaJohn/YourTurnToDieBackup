@@ -1,0 +1,6 @@
+Speaker [None]
+/Read HasDartGun
+0)I've done everything I can do down here, I guess I'll go check upstairs.
+1)I think there's more I can do down here, so I should come back later.
+ENDSPLIT
+/Move Second_floor

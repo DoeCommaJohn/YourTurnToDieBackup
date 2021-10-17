@@ -1,0 +1,5 @@
+Dialogue
+Speaker Joe/CrossArms
+Background MainHall
+Huh? We're back in the main hall?
+The game is over, but will not actually close.

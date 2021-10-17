@@ -1,0 +1,24 @@
+Speaker Mondo/Aggro
+Why the fuck is there a hole around that dartboard?
+Speaker Reko/Angry
+How damn deep does that go?! I can't even see the bottom.
+Speaker Joe/CrossArms
+I guess we shouldn't try anything until we are sure we can hit the dartboard.
+Protag, do you have anything like that?
+/Read HasDartGun
+Speaker Protag_[None]
+0)I don't think so, sorry.
+1)Cancel|Use dart gun
+1)I think I have something that would work.
+1)1)I guess I'll come back later
+1)2)Step aside, I've got this.
+1)2)I pull out the gun with the dart in it, point it at the dartboard, pull the trigger, and then...
+1)2)Hit! It wasn't a perfect bullseye, but it seemed to do the job. I'm glad I had the gun, there's no way I would have hit that with just my aim.
+1)2)/Obtain Key
+1)2)/Write HasKey
+1)2)/Destroy DartGun
+1)2)/Clear HasDartGun
+1)2)/Obtain Revolver
+1)2)What's this? I wonder where I can use this key?
+Speaker Mondo/Aggro
+1)2)Where the fuck did you get that gun?! I guess I better watch my back around you.

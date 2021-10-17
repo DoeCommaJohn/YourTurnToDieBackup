@@ -1,0 +1,7 @@
+Chapter:0
+Section:2
+Time:00:00:09
+Inventory:
+Variables:
+InteractedRooms:
+CurrRoom:Second_floor

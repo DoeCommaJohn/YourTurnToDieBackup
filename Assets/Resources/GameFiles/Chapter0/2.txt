@@ -1,0 +1,11 @@
+PuzzleArea
+Second_floor
+166x108x206x208;Chapter0/2_Door1
+262x108x302x208;Chapter0/2_Door2
+175x0x650x70;Chapter0/2_Stairs
+370x150x440x310;Chapter0/2_Exit
+Neighbors:Lower_floor;Third_Floor;Roof
+Lower_floor
+420x100x510x371;Chapter0/2_Dartboard
+87x179x122x299;Chapter0/2_BlueDoor
+Neighbors:[None]

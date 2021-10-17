@@ -1,0 +1,9 @@
+Speaker Protag_[None]
+There seems to be a lock here. I wonder what's on the other side
+/Read HasKey
+0)I should probably go look for a key
+1)Stay and search|Go through door
+1)This key looks like it should fit in the hole.
+1)1)I don't think I missed anything, but I guess it's good to be cautious.
+1)2)/Clear HasKey
+1)2)/EndPuzzle

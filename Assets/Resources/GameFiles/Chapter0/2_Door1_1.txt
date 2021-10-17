@@ -1,0 +1,6 @@
+Speaker Mondo/Aggro
+What's the damn point in having an entire room with just a single dart?!
+I've never even played darts, so I guess you can have this.
+/Obtain Dart
+/Write HasDart 1
+Obtained a dart!

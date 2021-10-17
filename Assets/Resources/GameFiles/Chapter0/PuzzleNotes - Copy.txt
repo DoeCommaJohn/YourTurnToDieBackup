@@ -1,0 +1,64 @@
+PuzzleArea
+DebugMode
+DoorRoom
+Clickable
+166x110,206x208
+
+
+
+
+
+
+
+
+
+
+
+Overview
+Line 1: PuzzleArea
+Line 2: Either DebugMode or the starting room
+There will be multiple groupings, each with the following
+XA) Room name: this will not be seen by the player, but helps with internal organization
+XB) Background
+XC) List of each interactable object, listed with a pair of dimensions, with the lower left and upper right pixel coordinates
+X	Pixel coordinates make it easier for an art person looking at the image to adjust, rather than requiring a programmer
+D) Each button will need some sort of result: the possible results are:
+	Popup, but nothing else
+	Move to a different room
+	Dialogue/Popup, then receive an item, possibly followed by more dialogue
+	Dialogue/Popup, including a dialogue option
+		Note: this dialogue option may include prompting for an item.
+E) Each room will have a list of neighbors which can be traveled to.
+	Occasionally neighbors will have restrictions preventing access
+Line n: There must be a clear condition for the section
+
+Items
+	Can be combined with other items
+	Items are only used when the game prompts, so I don't need to worry about a player trying every item on a button
+	The player may start off with weapons
+
+Todo
+XSave/Load system
+	Items
+	Current section
+	Level of interaction if save was made during a puzzle section
+Change the size of text based on screen resolution
+Switch the sprites before making them visible (may need to delay a frame)
+Looping text
+	If the player makes an incorrect choice, sometimes the choice will show up again
+	The player may need to cycle through every available choice before continuing
+XInteract with the enviroment
+	Pick up items
+	Close/Open doors
+X[Read] is being written multiple times
+XMenu/Move buttons
+Different color text if the protagonist is thinking vs speaking
+Resize Mondo
+XFunctioning Escape Key, arrow keys
+	Scroll wheel for save/load
+Add/Remove neighbors after interacting with objects
+
+Note: Choosing options is 1 based (option 1, not option 0), however, when detecting variables, the default value is 0
+It is currently impossible to save outside of puzzle sections
+
+Backgrounds: https://yourturntodie.fandom.com/wiki/Category:Backgrounds

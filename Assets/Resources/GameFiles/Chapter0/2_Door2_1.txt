@@ -1,0 +1,18 @@
+Speaker Reko/Angry
+What the fuck?! Do they expect us to-
+Speaker Protag_[None]
+What did you find?
+Speaker Reko/Angry
+They just left a damn gun lying around! Do they expect us to use this for something?
+Wait a second, this gun's empty?! I guess it can't be used for much then.
+Do you want it?
+Speaker Protag_[None]
+Me? You're just going to give something like that to somebody you've never met?
+Speaker Reko/Angry
+Well, yeah. It's useless to me, so I guess you can have it. It's not like you're gonna do much harm without any bullets.
+Besides, I'm stronger than I look, and I won't go down without a fight, so don't try anything.
+Speaker [None]
+/Obtain Revolver
+Obtained a revolver!
+Speaker Protag_[None]
+That's weird. There's a massive hole in the center of this gun.

@@ -1,0 +1,6 @@
+Speaker Protag_[None]
+I guess I should check out the lower floor again.
+/Move Lower_floor
+This room still feels out of place. 
+I wonder if this room will get any less weird if I go down again?
+I sure hope not, this is not the kind of place I want to get used to.

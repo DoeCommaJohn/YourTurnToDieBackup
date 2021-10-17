@@ -1,0 +1,10 @@
+This file is an example of how to write a puzzle file. Anywhere you see //, that is my note, and should not be included in actual dialogue files.
+PuzzleArea //This must be the first line of a dialogue file, and tells the program the type of file.
+DebugMode //If you make this the second line, clickable objects will be displayed as pink boxes, so you can make sure the buttons are being created correctly.
+Second_floor //Creates a room with the background Second_floor. _ will be displayed as spaces to the user.
+100x200x300x400;Chapter0/LeftDoor //Creates a button with the bottom left corner at pixel location (100,200) and top right corner at (300, 400). When this button is clicked, the file located at Chapter0/LeftDoor will run
+600x700x800x900;Chapter0/RightDoor //You may create as many interactable objects as you like.
+Neighbors:Lower_floor;Middle_floor //List of rooms that can be accessed from this room, seperated by ;
+Lower_floor //After listing the neighbors, you can create another room.
+1x2x3x4;Chapter0/Dartboard
+Neighbors:[None] //If a room doesn't connect to any other rooms, just type Neighbors:[None]

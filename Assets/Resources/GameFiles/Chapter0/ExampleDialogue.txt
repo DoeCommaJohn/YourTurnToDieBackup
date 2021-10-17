@@ -1,0 +1,14 @@
+This file is an example of how to write a dialogue file. Anywhere you see //, that is my note, and should not be included in actual dialogue files.
+Dialogue //This must be the first line of a dialogue file, and tells the program the type of file.
+Speaker Joe/CrossArms //Tells the program that the current speaker is Joe using the CrossArms pose. 
+Hey, my name is Joe. //This line of dialogue will be displayed as Joe's dialogue
+Here's some more filler dialogue //This line will also be displayed as Joe's dialogue. Every line will be displayed as the speaker's dialogue until a new speaker is established.
+Speaker ???_Reko/Angry //An _ can be used if a different name should be used from the images. For instance, if a character has just been met, you met want to display ??? instead of their name.
+Hey, my name is Reko //Now, all lines will be shown with ??? as the speaker, and Reko's angry pose as the sprite.
+Background MainHall //Changes the background to the MainHall image. This line will not be displayed as a character's dialogue
+Speaker [None] //If [None] is typed, no speaker image will be used. You may want to use this when the protagonist is thinking, or if a character is out of sight while speaking.
+I am the protagonist
+Speaker Sara_[None] //The _ works here too. This will display a speaker's name, but not an image.
+My name is Sara
+Speaker Mondo_Mondo/Aggro&Reko/Angry //Displays Mondo as the left character and Reko as the right character, with Mondo as the current speaker.
+Hey, Reko. //After the last line of dialogue, the next file will automatically be loaded

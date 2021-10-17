@@ -1,0 +1,14 @@
+Speaker [None]
+A weird gun with a large hole in the center.
+/Read HasDart
+0)Maybe I will find something I can combine with the gun.
+1)Do nothing|Combine
+1)I think I have something I can combine with the gun.
+1)2)/Destroy Dart
+1)2)/Destroy Revolver
+1)2)/Obtain DartGun
+1)2)/Write HasDartGun
+1)2)/Clear HasDart
+1)2)Placed dart in the center of the gun.
+1)2)I wonder where I can use this?
+1)1)There are more pressing matters right now, but I shouldn't forget about this.

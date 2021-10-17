@@ -1,0 +1,24 @@
+Dialogue
+Speaker Joe/CrossArms
+Background MainHall
+Sorry, I couldn't think of any filler dialogue, so here are the instructions instead.
+Speaker Reko/Rocker
+Find the folder in Assets/Resources/GameFiles/Chapter0, then open 1.txt. A dialogue file should start with the word Dialogue
+Speaker Mondo/Aggro
+The format is "Speaker [SpeakerName]/[Expression]" without quotes or brackets. For example, this line is saved as Speaker Mondo/Aggro
+Under that, just type in whatever line of dialogue you want them to say. If you want multiple lines, you don't need to type the speaker's name twice, unless they change expression.
+Speaker Joe/CrossArms
+If you want to change which sprites you use, navigate to Assets/Resources/CharacterSprites and add a folder for each character. Within each folder, label each image with the expression of the character, or whatever you want.
+For example, there is an image in the Joe folder labeled CrossArms, which is currently being displayed.
+Please do not use _ or & in the name. If that is a problem, just message me, and I can change the delimeter super easily.
+Speaker Reko_Joe/CrossArms&Reko/Rocker
+Multiple characters can speak too! In the file, just add an & between the two characters, and an _ to show which one is speaking.
+For example, this line is saved as Speaker Reko_Joe/CrossArms&Reko/Rocker because Reko is the current speaker, and Joe's CrossArms picture and Reko's Rocker picture are being used.
+Speaker Joe_Joe/CrossArms&Reko/Rocker
+Background Second_floor
+You can also change the background in the middle of dialogue, should you so desire, simply by typing Background [Image name]. For example, this is saved under Background Second_floor.
+The backgrounds folder can be found in Assets/Resources/Backgrounds
+Speaker Mondo_Mondo/Aggro&Reko/Angry
+Backlog: Dialogue system, different font colors for internal thoughts, music, fastforward through text, reverse through text.
+Speaker Joe_Joe/Smile&Mondo/Aggro
+If you have any questions, or have any changes you wish to add, my reddit profile is u/DoeCommaJohn

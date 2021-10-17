@@ -1,0 +1,7 @@
+Chapter:0
+Section:2
+Time:00:00:44
+Inventory:Dart;
+Variables:HasDart:1;
+InteractedRooms:Chapter0/2_Stairs:2;Chapter0/2_BlueDoor:1;Chapter0/2_Door1:1;
+CurrRoom:Lower_floor

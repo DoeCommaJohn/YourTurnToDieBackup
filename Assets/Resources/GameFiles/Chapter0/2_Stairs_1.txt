@@ -1,0 +1,4 @@
+Speaker Protag_[None]
+I wonder where these stairs lead?
+/Move Lower_floor
+What kind of place are we that has a room like this? Just a dartboard with a pit around it?
